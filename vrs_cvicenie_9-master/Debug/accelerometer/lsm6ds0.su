@@ -1,0 +1,6 @@
+lsm6ds0.c:6:9:lsm6ds0_read_byte	32	static
+lsm6ds0.c:13:6:lsm6ds0_write_byte	16	static
+lsm6ds0.c:19:6:lsm6ds0_readArray	24	static
+lsm6ds0.c:25:8:lsm6ds0_get_temp	16	static
+lsm6ds0.c:34:6:lsm6ds0_get_acc	40	static
+lsm6ds0.c:60:9:lsm6ds0_init	16	static
